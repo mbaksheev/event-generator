@@ -12,4 +12,4 @@ Run jar:
 
 `R` - Rate of generation “start” events per second (how many new interactions must be generated per every second).
 
-Produced events wil be stored in `results.json` file placed in working directory
+Produced events will be stored in `results.json` file placed in working directory
